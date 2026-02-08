@@ -1,4 +1,4 @@
-#Supervised Applied project
+# Supervised Applied project
 GDPR-Compliant WordPress Data Sovereignty Architecture
 
 This repository contains the work-in-progress for the supervised applied project
